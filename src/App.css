@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+.OkienkoOkienko {
+  position: absolute;
+  height: 80%;
+  width: 90%;
+  left: 5%;
+  top: 5%;
+  background-color: teal;
+
+}
+
+.Okienko {
+  width: 1280px;
+  height: 720px;
+}
